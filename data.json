@@ -1,0 +1,100 @@
+{
+    "greeting": {
+        "utterances": ["hello", "hi", "hey", "good morning", "good evening"],
+        "responses": [
+            "Hello! How can I assist you today?",
+            "Hi there! What can I help you with?\n1.Suggest me top web development companies",
+            "Hey! How's it going?"
+        ]
+    },
+    "farewell": {
+        "utterances": ["bye", "goodbye", "see you", "farewell"],
+        "responses": ["Goodbye! Have a great day!", "See you later!", "Take care!"]
+    },
+    "help": {
+        "utterances": [
+            "help",
+            "i need help",
+            "can you help me",
+            "assist me",
+            "need assistance"
+        ],
+        "responses": [
+            "Of course! What do you need help with?",
+            "I’m here to help. Please tell me what you need assistance with."
+        ]
+    },
+    "thank_you": {
+        "utterances": [
+            "thank you",
+            "thanks",
+            "much appreciated",
+            "thank you so much"
+        ],
+        "responses": [
+            "You're welcome!",
+            "No problem! Happy to help.",
+            "Glad I could assist!"
+        ]
+    },
+
+    "firms_suggestion_in_country": {
+        "utterances": [
+            "top web development firms in India",
+            "top 10 web development firms in India"
+        ],
+        "responses": [
+            "Here are the top web development firms in India.<br><ol><li><a class=\"response-a\" href=\"https://www.vidhema.com\" target=\"_blank\" class=\"response-a\">Vidhema Technologies</a></li><li><a class=\"response-a\" href=\"https://www.seasiainfotech.com\" target=\"_blank\" class=\"response-a\">Seasia Infotech</a></li><li><a class=\"response-a\" href=\"https://www.ecombooks.com\" target=\"_blank\" class=\"response-a\">Ecom Books</a></li><li><a class=\"response-a\" href=\"https://www.paramtechnosys.com\" target=\"_blank\" class=\"response-a\">Param Technosys</a></li><li><a class=\"response-a\" href=\"https://www.gurutechnolabs.com\" target=\"_blank\" class=\"response-a\">Guru Technolabs</a></li><li><a class=\"response-a\" href=\"https://www.imensoftware.com\" target=\"_blank\" class=\"response-a\">Imenso Software</a></li><li><a class=\"response-a\" href=\"https://www.binmile.com\" target=\"_blank\" class=\"response-a\">Binmile</a></li><li><a class=\"response-a\" href=\"https://www.work4you.com\" target=\"_blank\" class=\"response-a\">Work4you</a></li><li><a class=\"response-a\" href=\"https://www.dotsquares.com\" target=\"_blank\" class=\"response-a\">Dotsquares</a></li><li><a class=\"response-a\" href=\"https://www.a3logics.com\" target=\"_blank\" class=\"response-a\">A3logics</a></li></ol>"
+
+        ]
+    },
+    "firms_suggestion_in_australia": {
+        "utterances": [
+            "top web development firms in Australia",
+            "top 10 web development firms in Australia"
+        ],
+        "responses": [
+            "Here are the top web development firms in Australia.<br><ol><li><a class=\"response-a\" href=\"https://www.endivesoftware.com\" target=\"_blank\">Endive Software</a></li><li><a class=\"response-a\" href=\"https://www.promptsoftech.com\" target=\"_blank\">Prompt Softech</a></li><li><a class=\"response-a\" href=\"https://www.technoinfonet.com\" target=\"_blank\">Techno Infonet</a></li><li><a class=\"response-a\" href=\"https://www.cis.com.au\" target=\"_blank\">CIS</a></li></ol>"
+
+        ]
+    },
+
+    "app_development_firms_suggestion": {
+        "utterances": ["top app development firms", "app development"],
+        "responses": [
+            "<p>Here are the top App Development Firms:</p>\n<ol>\n<li><a href=\"https://www.vidhema.com\" target=\"_blank\" class=\"response-a\">Vidhema Technologies</a></li>\n<li><a href=\"https://www.seasiainfotech.com\" target=\"_blank\" class=\"response-a\">Seasia Infotech</a></li>\n<li><a href=\"https://www.inexture.com\" target=\"_blank\" class=\"response-a\">INEXTURE Solutions</a></li>\n<li><a href=\"https://www.paramtechnosys.com\" target=\"_blank\" class=\"response-a\">Param Technosys</a></li>\n<li><a href=\"https://www.arkasoftwares.com\" target=\"_blank\" class=\"response-a\">ARKA Softwares</a></li>\n<li><a href=\"https://www.dotsquares.com\" target=\"_blank\" class=\"response-a\">Dotsquares</a></li>\n<li><a href=\"https://www.a3logics.com\" target=\"_blank\" class=\"response-a\">A3logics</a></li>\n<li><a href=\"https://www.imensoftware.com\" target=\"_blank\" class=\"response-a\">Imenso Software</a></li>\n<li><a href=\"https://www.andolasoft.com\" target=\"_blank\" class=\"response-a\">Andolasoft Inc</a></li>\n<li><a href=\"https://www.umbrella-it.com\" target=\"_blank\" class=\"response-a\">Umbrella IT</a></li>\n</ol> "
+        ]
+    },
+    "digital_marketing_firms_suggestion": {
+        "utterances": ["top digital marketing firms", "digital marketing firms"],
+        "responses": [
+            "Here are the top Digital Marketing Firms.<br><ol><li><a class=\"response-a\" href=\"https://www.vidhema.com\" target=\"_blank\">Vidhema Technologies</a></li><li><a class=\"response-a\" href=\"https://www.seasiainfotech.com\" target=\"_blank\">Seasia Infotech</a></li><li><a class=\"response-a\" href=\"https://www.seogenies.com\" target=\"_blank\">SEO Geniuses Philippines</a></li><li><a class=\"response-a\" href=\"https://www.paramtechnosys.com\" target=\"_blank\">Param Technosys</a></li><li><a class=\"response-a\" href=\"https://www.arkasoftwares.com\" target=\"_blank\">ARKA Softwares</a></li><li><a class=\"response-a\" href=\"https://www.dotsquares.com\" target=\"_blank\">Dotsquares</a></li><li><a class=\"response-a\" href=\"https://www.a3logics.com\" target=\"_blank\">A3logics</a></li><li><a class=\"response-a\" href=\"https://www.imensoftware.com\" target=\"_blank\">Imenso Software</a></li><li><a class=\"response-a\" href=\"https://www.andolasoft.com\" target=\"_blank\">Andolasoft Inc</a></li><li><a class=\"response-a\" href=\"https://www.umbrella-it.com\" target=\"_blank\">Umbrella IT</a></li></ol>"
+
+        ]
+    },
+    "UI_UX_firms_suggestion": {
+        "utterances": ["top UI UX firms", "UI UX firms"],
+        "responses": [
+            "Here are the top UI UX Firms.<br><ol><li><a class=\"response-a\" href=\"https://www.vidhema.com\" target=\"_blank\">Vidhema Technologies</a></li><li><a class=\"response-a\" href=\"https://www.paramtechnosys.com\" target=\"_blank\">Param Technosys</a></li><li><a class=\"response-a\" href=\"https://www.seasiainfotech.com\" target=\"_blank\">Seasia Infotech</a></li><li><a class=\"response-a\" href=\"https://www.yugasa.com\" target=\"_blank\">Yugasa Software Labs</a></li><li><a class=\"response-a\" href=\"https://www.ecombooks.com\" target=\"_blank\">Ecom Books</a></li><li><a class=\"response-a\" href=\"https://www.gurutechnolabs.com\" target=\"_blank\">Guru Technolabs</a></li><li><a class=\"response-a\" href=\"https://www.iscripts.com\" target=\"_blank\">iScripts</a></li><li><a class=\"response-a\" href=\"https://www.umbrella-it.com\" target=\"_blank\">Umbrella IT</a></li><li><a class=\"response-a\" href=\"https://www.andolasoft.com\" target=\"_blank\">Andolasoft Inc</a></li><li><a class=\"response-a\" href=\"https://www.dpl.com\" target=\"_blank\">DPL</a></li></ol>"
+
+        ]
+    },
+    "block_chain_firms_suggestion": {
+        "utterances": [
+            "top Block Chain Development firms",
+            "Block Chain Develoment firms"
+        ],
+        "responses": [
+            "Here are the top Block Chain Development Firms.<br><ol><li><a class=\"response-a\" href=\"https://www.vidhema.com\" target=\"_blank\">Vidhema Technologies</a></li><li><a class=\"response-a\" href=\"https://www.iscripts.com\" target=\"_blank\">iScripts</a></li><li><a class=\"response-a\" href=\"https://www.paramtechnosys.com\" target=\"_blank\">Param Technosys</a></li><li><a class=\"response-a\" href=\"https://www.intellectsoft.net\" target=\"_blank\">Intellectsoft</a></li><li><a class=\"response-a\" href=\"https://www.debutinfotech.com\" target=\"_blank\">Debut Infotech</a></li><li><a class=\"response-a\" href=\"https://www.pixelplex.io\" target=\"_blank\">PixelPlex</a></li><li><a class=\"response-a\" href=\"https://www.solulab.com\" target=\"_blank\">SoluLab Official</a></li><li><a class=\"response-a\" href=\"https://www.appmanufact.com\" target=\"_blank\">APPMANUFACT</a></li><li><a class=\"response-a\" href=\"https://www.itxitpro.com\" target=\"_blank\">ITXITPro Pvt Ltd</a></li><li><a class=\"response-a\" href=\"https://www.dpl.com\" target=\"_blank\">DPL</a></li></ol>"
+
+        ]
+    },
+
+    "unknown": {
+        "utterances": [],
+        "responses": [
+            "Sorry, I didn't understand that.",
+            "Can you please rephrase?"
+        ]
+    }
+}
